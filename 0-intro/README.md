@@ -8,7 +8,7 @@
 - [WHY?]  - Benefits
 - What?
 - How?
-
+- `Fullstack web` vs [Fullstack ML](https://fullstackdeeplearning.com/)
 ----
 ### Showcase
 
