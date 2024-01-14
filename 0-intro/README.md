@@ -96,7 +96,7 @@
 
 
 <!-- Links -->
-[Questions-Bank]:https://github.com/tx00-web-fi/Questions-Bank
+[Questions-Bank]:https://github.com/tx00-web-en/Questions-Bank
 [Use of AI in the course: copilot / ChatGPT]:https://github.com/tx00-web-fi/Activities/blob/main/AI.md
 [WHY?]:https://simonsinek.com/books/start-with-why/
 [Gatsby.JS]:https://www.gatsbyjs.com/
