@@ -1,7 +1,7 @@
 # Week 1
 
-> [Homework](./Homework.md)
-> [Refresher](./Refresher.md)
+- [Homework](./Homework.md)
+- [Refresher](./Refresher.md)
 
 
 ### 2023-01-15: Introduction to the Course
