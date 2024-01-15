@@ -13,9 +13,7 @@ Install all of these:
 ---
 ## NodeJS
 
-Node.JS is Javascript Runtime Environment for running JavaScript files directly
-on a computer. JavaScript is built into every web browser, but if you want
-to run JavaScript directly without a browser, you need to install Node.JS.
+Node.JS is Javascript Runtime Environment for running JavaScript files directly on a computer. JavaScript is built into every web browser, but if you want to run JavaScript directly without a browser, you need to install Node.JS.
 
 Installing Node.js on macOS follows almost the same procedure as Windows. All you have to do is to download the installation file found [here](#links). The installer will walk you through the rest.
 
@@ -73,6 +71,8 @@ This will now allow you to easily open files in VS Code from the terminal using 
 ### Windows
 
 Windows users should run the downloaded installer application, and follow the instructions.
+
+> To [upgrade npm] use ` npm install -g npm@latest ` 
 
 ### Ubuntu
 
@@ -187,3 +187,6 @@ every command that requires authentication.
 
 - [PAT](https://github.com/settings/tokens)
 - [SSH article](https://hackmd.io/@AgDXdHgSSPKsJIhCxlaTuA/BJtNu88fF)
+
+<!--  -->
+[upgrade npm]:https://docs.npmjs.com/try-the-latest-stable-version-of-npm

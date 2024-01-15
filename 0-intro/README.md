@@ -3,7 +3,7 @@
 
 - Demos
 - Grades past course
-- [Advices from past participants](./advices.md)
+- [Advices from past participants](./feedback.md)
 - Intro
 - [WHY?]  - Benefits
 - What?
@@ -97,7 +97,7 @@
 
 <!-- Links -->
 [Questions-Bank]:https://github.com/tx00-web-en/Questions-Bank
-[Use of AI in the course: copilot / ChatGPT]:https://github.com/tx00-web-fi/Activities/blob/main/AI.md
+[Use of AI in the course: copilot / ChatGPT]:https://github.com/tx00-web-en/Activities/blob/main/AI.md
 [WHY?]:https://simonsinek.com/books/start-with-why/
 [Gatsby.JS]:https://www.gatsbyjs.com/
 [Next.JS]:https://nextjs.org/

@@ -48,7 +48,7 @@
 #### 7. Break Times
 
 - Regulatory compliance
-- Balanced 20-minute breaks
+- 15-minute breaks
 
 #### 8. In-Campus Classes
 
