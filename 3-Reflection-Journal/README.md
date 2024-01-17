@@ -3,7 +3,6 @@
 - Student Name: [Your Name]
 - Week #: 
 
-
 > Make sure that you have the following hierarchy in place. The reflection journal should be located in `./dev/week1/Reflection-Journal`.
 
 ```sh

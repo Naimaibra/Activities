@@ -55,9 +55,7 @@
 - [Functions are First-Class Citizens](../Reading/functions.md)
 - [Arrow Functions?](../Reading/arrow-functions.md)
 - [Function declaration vs function expressions]
-- Callbacks
-
-
+- Callbacks (functions passed as parameters)
 
 ### [Activity 1](./activity-1/README.md)
 

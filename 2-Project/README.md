@@ -7,7 +7,7 @@
 
 ### Project 
 
-- **Sprint 1 (DL 2024-01-30)**: 
+- **Sprint 1 (DL 2024-01-28)**: 
   - Create a prototype using `Figma` or `Draw.io`. 
   - More info [here](https://github.com/tx00-web-en/project/blob/main/sprint1.md)
 - Sprint 2: Develop a full stack app **without** authentication or user registration.
