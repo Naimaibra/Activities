@@ -2,7 +2,7 @@
 
 Friday sessions serve as review sessions where we won't introduce new material. However, if you have any questions about topics or activities that are unclear, it's recommended to attend these sessions.
 
-### Friday Morning: 2023-11-03 - 9:00 AM to 12:00 PM
+### Friday Morning: 2024-01-26 - 9:00 AM to 12:00 PM
 
 - CSS Refresher
   - [Flexbox](https://internetingishard.netlify.app/html-and-css/flexbox/)
@@ -19,7 +19,7 @@ Friday sessions serve as review sessions where we won't introduce new material. 
   - [Component: BoxColor]
 
 
-### Friday Afternoon: 2023-11-03 - 2:00 PM to 5:00 PM
+### Friday Afternoon:  2024-01-26 - 2:00 PM to 5:00 PM
 
 - [API server practice](../Project/activity4/README.md)
 - [Postman: practice]((../Project/activity4/README.md))
