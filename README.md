@@ -1,10 +1,9 @@
 # Week 2
-
+<!-- 
 ### Announcements:
 
 - [Homework for week 2 and week 3](./Homework.md)
 - [Self Grading](./Journal-Self-Grading/self-grading.md)
-  - [Maximum points per week (Markdown)]
 - Pair programming starts week 3: Ready ??
 - Reflection Journal
   - Vscode: Autosave, [Live share], [Git Stage]
@@ -39,9 +38,9 @@
 
 ### Optional Sessions
 
-- [Friday Morning from 9:00-12:00: Campus](./Optional/README.md) - Go through React lesson step by step
-- [Friday Evening from 14:00-17:00: Online](./Optional/README.md) - Go through Express lesson step by step
-
+- [Friday Morning from 9:00-12:00: Campus](./Optional/README.md)
+- [Friday Evening from 14:00-17:00: Online](./Optional/README.md)
+ -->
 
 
 <!--  Links -->

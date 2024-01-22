@@ -1,5 +1,7 @@
 # 2024-01-22: Front End
 
+> [Homework for week 2 and week 3](../Homework.md)
+
 ### Topics
 
 - React Library: Intro, props
@@ -32,7 +34,7 @@
   - Importing and Exporting Components 
   - [import vs require]
   - [npx vs npm]
-- JSX: 
+- [JSX](https://react.dev/learn/writing-markup-with-jsx): 
   - [Technology adoption life cycle]
   - [HTML to JSX]
 - [CRA vs Vite vs Webpack]
