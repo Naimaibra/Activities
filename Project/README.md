@@ -57,7 +57,7 @@
   - A solid backlog should be `DEEP` [(Detailed, Emergent, Estimated, Prioritized)](./activity1/part4.md)
 - [Examples](./invest.md)
 - [Trello]
-- [Activity 1](./activity1/README.md)
+- [Activity](./activity1/README.md)
 
 
 
