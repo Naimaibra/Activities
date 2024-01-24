@@ -1,5 +1,73 @@
 # Project Course
 
+----
+## Thursday Afternoon
+
+### Announcement
+- We will be using Postman. If you haven't installed it yet, you can download it from [here](https://www.postman.com/downloads/).
+- [Friday Sessions](../Optional/README.md)
+
+### Topics
+
+- Project Related
+  - Team Development
+  - Sprint 1
+- Express: Practical Exercises 
+- Postman: collection, requests
+- CRUD Operations
+
+### Tentative Timeline per session
+
+- Mini lecture (~35min)
+- Group / Pair programming `+ Break` (~50min)
+- Mini lecture (~35min)
+- Group / Pair programming (~35min)
+
+-----
+### Project Related
+
+- https://github.com/tx00-web-en/project 
+- [Sprint 1, DL: 2024-01-28 at 23:59](https://github.com/tx00-web-en/project/blob/main/sprint1.md)
+- Presentations next Monday and Wednesday afternoon
+- Git repos: sprint1, FIGMA FILES
+- Consider using ChatGPT for:
+  - Generating user stories and evaluating them in alignment with the INVEST principle
+  - Constructing a product backlog and Assessing tasks with respect to the DEEP principle
+- Team Development
+  - [Forming, Storming, Norming and Performing: Team Development](https://www.indeed.com/career-advice/career-development/forming-storming-norming)
+  - [Using the Stages of Team Development](https://hr.mit.edu/learning-topics/teams/articles/stages-development)
+
+
+-----
+### Express: Practical Exercises 
+
+- [CRUD] Operations
+- [Postman] 
+  - GET, POST
+  - Postman: requests
+  - [Postman VS Code extension]
+- [Activity](./activity3/README.md)
+
+-----
+### Express: Practical Exercises ...
+
+- [CRUD] Operations
+- [Postman] 
+  - GET, POST, PUT, PATCH, DELETE
+  - Postman: collections
+- [Activity](./activity4/README.md)
+- [Optional activities](./activity5/README.md)
+
+### Reading
+
+- [HTTP request methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+- [find()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
+- [findIndex()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex)
+- [splice()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
+- [Murphy's law](https://en.wikipedia.org/wiki/Murphy's_law)
+
+
+---------
 ## Monday Afternoon
 
 
@@ -69,12 +137,6 @@
   - [JavaScript in JSX with Curly Braces]
   - [Low-fidelity vs. high-fidelity prototyping]
 
-----
-## Thursday Afternoon
-
-- Express: Practical Exercises 
-- Postman: collection, requests
-<!-- - [Link](./2023-11-02.md) -->
 
 
 
@@ -101,3 +163,6 @@
 [import vs require]:https://marketsplash.com/tutorials/javascript/javascript-import-vs-require/
 [Low-fidelity vs. high-fidelity prototyping]:https://www.invisionapp.com/inside-design/low-fi-vs-hi-fi-prototyping/
 [JavaScript in JSX with Curly Braces]:https://react.dev/learn/javascript-in-jsx-with-curly-braces
+[CRUD]:https://en.wikipedia.org/wiki/Create,_read,_update_and_delete
+[Postman]:https://www.postman.com/downloads/
+[Postman VS Code extension]:https://marketplace.visualstudio.com/items?itemName=Postman.
